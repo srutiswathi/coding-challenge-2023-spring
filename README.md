@@ -52,3 +52,7 @@ def most_frequent(df):
     return num
  
 print(most_frequent(df))
+
+2. We can create a pie-chart for all the columns from the data set to notice and find a pattern. 
+
+By creating a pie chart using Matplotlib for each column, we can answer the question of weather there is a relationship between the different attributes of the star. Through this visualization, we will better be able to understand and digest the data provided. 
